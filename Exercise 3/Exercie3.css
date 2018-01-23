@@ -1,0 +1,17 @@
+
+body {}
+ header{display:block}
+
+#div1 { background-color: limegreen; font-family: Calibri; margin: 30px auto; padding: 10px 40px 30px; box-shadow: 3px 3px 6px gray; font-weight: bold}
+
+img   {float: left}
+
+section {background-color: pink; position: relative; text-align: center}
+
+#sprite {position: absolute; top: 160px; left: 160px;}
+
+#footer1 {background-color: rosybrown;font-weight: bold; text-align: center;position: sticky; clear: both;}
+
+
+
+
